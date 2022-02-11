@@ -1,0 +1,27 @@
+{
+    "channels": {
+      "xp": "🤖-bot-commands",
+      "news": "news",
+      "logs": "logs",
+      "ads": "ads",
+      "createChannel": "🔊 New Voicechannel"
+    },
+    "colors": {
+      "blue": "#4200ff",
+      "lightblue": "#FFFFF",
+      "green": "#28823d",
+      "red": "#cf0a0a"
+    },
+    "roles": {
+      "staffrole": "Long Noodle",
+      "verified": "Noodle"
+    },
+    "settings": {
+      "adstimeout": 2147483647,
+      "CharsForLevel": 200
+    },
+    "emojis":{
+      "check": "Yes"
+    }
+  
+  }
